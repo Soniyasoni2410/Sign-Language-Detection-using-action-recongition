@@ -43,6 +43,11 @@ A real-time Sign Language Detection system leveraging action recognition. Uses c
 - Improve model accuracy with more advanced ML algorithms.
 - Add user customization for audio output.
 
+  ## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+
 
 ##  Acknowledgments
   Thanks to the creators of MediaPipe, OpenCV, and scikit-learn for their powerful tools that made this project possible.
