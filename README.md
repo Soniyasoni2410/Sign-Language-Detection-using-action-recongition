@@ -43,7 +43,7 @@ A real-time Sign Language Detection system leveraging action recognition. Uses c
 - Improve model accuracy with more advanced ML algorithms.
 - Add user customization for audio output.
 
-  ## License
+## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
